@@ -1,3 +1,5 @@
+[![build](https://github.com/theachoem/productive-box/actions/workflows/build.yml/badge.svg)](https://github.com/theachoem/productive-box/actions/workflows/build.yml)
+
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
     <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
